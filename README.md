@@ -1,3 +1,3 @@
 # hello 
 
-This is my first experience with git and githbu
+This is my first experience with git and github
