@@ -1,3 +1,3 @@
-# hello 
+# A Javascript Wall Clock 
 
-This is my first experience with git and github
+A script that acts as a wall clock
